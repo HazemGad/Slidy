@@ -1,4 +1,4 @@
-# 🔧 Tech Concepts Explained 
+#  Tech Concepts Explained 
 
 ---
 
